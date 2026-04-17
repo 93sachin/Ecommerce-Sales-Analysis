@@ -6,6 +6,7 @@ This project focuses on analyzing e-commerce sales data to extract meaningful bu
 The goal of this project is to understand customer behavior, product performance, and revenue trends to support data-driven business decisions.
 
 ---
+Due to Large mb of data dataset is not uploaded but there is link where u seen - https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ## 🔹 Tools & Technologies Used
 - Python (Pandas, NumPy)
